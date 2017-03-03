@@ -40,12 +40,10 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
             <version>1.7.22</version>
-<<<<<<< HEAD
-        </dependency>
 
-=======
+
             </dependency>
->>>>>>> 167322451eb90176dbb1c2d3e13e1723d2053980
+
     </dependencies>
 
 
